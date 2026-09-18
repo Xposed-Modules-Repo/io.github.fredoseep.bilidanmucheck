@@ -1,5 +1,7 @@
 # BiliDanmuCheck
 
+* 模块开源地址：https://github.com/fredoseep/biliDanmuCheck 问题反馈以及建议请在这个仓库提交
+
 ## 模块简介
 这是一个基于 Xposed/LSPosed 框架的哔哩哔哩（Bilibili）客户端辅助模块，主要提供纯净的观看体验以及实用的弹幕溯源功能。
 

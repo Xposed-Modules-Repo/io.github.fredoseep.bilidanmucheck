@@ -28,7 +28,7 @@
 
 ## 兼容性说明
 * 目标应用：哔哩哔哩 (tv.danmaku.bili)
-* 测试环境：Bilibili v9.12.0
+* 测试环境：Bilibili v9.15.0
 * 框架依赖：LSPosed / Xposed
 
 ## 免责声明
